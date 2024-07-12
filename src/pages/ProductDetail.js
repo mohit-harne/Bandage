@@ -110,7 +110,7 @@ const ProductDetail = () => {
                 </button>
                 <img className="h-[40px] w-[40px]" src={favround} alt="M" />
                 <button onClick={() => handleAddToCart(product)}>
-                  <img className="h-[40px] w-[40px]" src={cartround} alt="M" />
+                  <img className="h-[40px] w-[40px] drop-shadow-lg hover:scale-110 transition-all" src={cartround} alt="M" />
                 </button>
                 <img className="h-[40px] w-[40px]" src={eyeround} alt="M" />
               </div>
