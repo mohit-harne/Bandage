@@ -133,7 +133,7 @@ const Shop = () => {
               Problems trying to resolve the conflict between
             </h1>
           </div>
-          <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-8 md:gap-0 gap-[20px] justify-center items-center lg:px-[50px] md:px-[50px] px-[30px]">
+          <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-8 md:gap-0 gap-[20px] lg:ml-[100px] md:ml-[80px] ml-[20px] lg:px-[50px]">
             <div>
               <section className="mb-8">
                 <h2 className="text-4xl font-bold mb-4 underline underline-offset-4">
