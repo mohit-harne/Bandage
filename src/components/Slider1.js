@@ -4,7 +4,7 @@ import shopimg2 from "../images/shopimg2.jpg";
 import shopimg3 from "../images/shopimg3.jpg";
 import leftarrow from "../images/leftarrow.png";
 import rightarrow from "../images/rightarrow.png";
-
+import { Link } from "react-router-dom";
 const images = [
   {
     src: shopimg2,
@@ -15,9 +15,9 @@ const images = [
         <h1 className="text-[20px] font-normal w-[340px]">
           We know how large objects will act, but things on a small scale.
         </h1>
-        <button className="bg-[#2DC071] px-[40px] py-[15px] text-[24px] font-bold w-[221px]">
+        <Link to='/shop'>   <button className="bg-[#2DC071] px-[40px] py-[15px] text-[24px] font-bold w-[221px]">
           SHOP NOW
-        </button>
+        </button> </Link>
       </div>
     ),
   },
@@ -30,9 +30,9 @@ const images = [
         <h1 className="text-[20px] font-normal w-[340px]">
           Discover the latest trends for the season.
         </h1>
-        <button className="bg-[#FF8C00] px-[40px] py-[15px] text-[24px] font-bold w-[321px]">
+        <Link to='/shop'> <button className="bg-[#FF8C00] px-[40px] py-[15px] text-[24px] font-bold w-[321px]">
           VIEW COLLECTION
-        </button>
+        </button></Link> 
       </div>
     ),
   },
@@ -45,9 +45,9 @@ const images = [
         <h1 className="text-[20px] font-normal w-[340px]">
           Celebrate with our festive collection.
         </h1>
-        <button className="bg-[#BF0A30] px-[40px] py-[15px] text-[24px] font-bold w-[321px]">
+      <Link to='/shop'> <button className="bg-[#BF0A30] px-[40px] py-[15px] text-[24px] font-bold w-[321px]">
           EXPLORE NOW
-        </button>
+        </button> </Link> 
       </div>
     ),
   },
