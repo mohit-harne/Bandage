@@ -45,7 +45,7 @@ const ProductDetail = () => {
   }
 
   return (
-    <div className="shop-container p-4">
+    <div className="shop-container">
       {notification && (
         <div className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-[#333333] lg:text-4xl md:text-4xl text-2xl text-white text-center p-4 rounded-lg mb-4 z-50">
           {notification}
