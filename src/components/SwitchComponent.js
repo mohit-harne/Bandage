@@ -1,6 +1,5 @@
-
-import React, { useState } from 'react';
-import Switch from 'react-switch';
+import React, { useState } from "react";
+import Switch from "react-switch";
 
 const SwitchComponent = () => {
   const [checked, setChecked] = useState(false);
