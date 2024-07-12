@@ -178,7 +178,7 @@ const ProductDetail = () => {
               </div>
             </div>
           </div>
-          <div className="flex justify-center items-center lg:mt-0 md:mt-[50px] mt-[-250px] lg:ml-0 md:ml-0 ml-[-25px]">
+          <div className="flex justify-center items-center lg:mt-0 md:mt-[50px] mt-[-250px] lg:ml-0 md:ml-0 ml-[-15px]">
             <Bestseller />
           </div>
           <div className="lg:h-[126px] md:h-[126px] h-[1452px] bg-[#FAFAFA] flex lg:flex-row md:flex-row flex-col lg:gap-[50px] md:gap-[0px] gap-[180px] justify-center items-center lg:mt-[60px] md:mt-[-120px] mt-[10px]">
