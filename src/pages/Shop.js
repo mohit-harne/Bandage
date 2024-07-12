@@ -102,7 +102,7 @@ const Shop = () => {
             <h1 className="text-[24px] font-bold text-[#252B42]">BESTSELLER PRODUCTS</h1>
             <h1 className="text-[14px] font-normal text-[#737373]">Problems trying to resolve the conflict between</h1>
           </div>
-          <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-8 md:gap-0 gap-[20px] lg:ml-[100px] md:ml-[80px] ml-[20px] lg:px-[50px]">
+          <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-8 md:gap-0 gap-[20px] lg:ml-[100px] md:ml-[80px] ml-[0px] lg:px-[50px]">
             <div>
               <section className="mb-8">
                 <h2 className="text-4xl font-bold mb-4 underline underline-offset-4">Men &#8594;</h2>
