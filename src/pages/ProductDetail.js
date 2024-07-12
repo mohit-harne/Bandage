@@ -121,7 +121,7 @@ const ProductDetail = () => {
           </div>
           <div className='flex justify-center items-center lg:mt-0 md:mt-[50px] mt-[-250px]'><Bestseller /></div>
           <div className='lg:h-[126px] md:h-[126px] h-[1452px] bg-[#FAFAFA] flex lg:flex-row md:flex-row flex-col lg:gap-[50px] md:gap-[0px] gap-[180px] justify-center items-center lg:mt-[60px] md:mt-[-120px] mt-[10px]'>
-            <img className='h-[34px] w-[153px] lg:scale-100 md:scale-100 scale-[200%]' src={hooli} alt='M' />
+            <img  className='h-[34px] w-[153px] lg:scale-100 md:scale-100 scale-[200%]' src={hooli} alt='M' />
             <img className='h-[59px] w-[146px] lg:scale-100 md:scale-100 scale-[280%]' src={lyft} alt='M' />
             <img className='h-[75px] w-[152px] lg:scale-100 md:scale-100 scale-[280%]' src={boat} alt='M' />
             <img className='h-[42px] w-[151px] lg:scale-100 md:scale-100 scale-[280%]' src={stripe} alt='M' />
