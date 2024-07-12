@@ -117,7 +117,7 @@ const Shop = () => {
       )}
       {isLoading ? (
         <div className="text-center text-xl font-bold mt-8">
-          Loading products...
+          Loading products... Please wait a moment
         </div>
       ) : (
         <div>
