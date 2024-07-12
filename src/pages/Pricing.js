@@ -92,7 +92,7 @@ const Pricing = () => {
 </div>
 <div className='lg:mt-[100px] md:mt-[80px] mt-[50px]'>
   <h1 className='text-[20px] text-[#252B42] font-bold text-center'>Trusted By Over 4000 Big Companies</h1>
-<div className='lg:h-[126px] md:h-[126px] h-[1452px]  w-full flex lg:flex-row md:flex-row flex-col lg:gap-[50px] md:gap-[0px] gap-[180px] justify-center items-center lg:mt-[40px] md:mt-[-20px] mt-[10px]'>
+<div className='lg:h-[126px] md:h-[126px] h-[1452px]  w-full flex lg:flex-row md:flex-row flex-col lg:gap-[50px] md:gap-[0px] gap-[181px] justify-center items-center lg:mt-[40px] md:mt-[-20px] mt-[10px]'>
 <img className='h-[34px] w-[153px] lg:scale-100 md:scale-100 scale-[200%]' src={hooli} alt='M'/>
 <img className='h-[59px] w-[146px] lg:scale-100 md:scale-100 scale-[280%]' src={lyft} alt='M'/>
 <img className='h-[75px] w-[152px] lg:scale-100 md:scale-100 scale-[280%]' src={boat} alt='M'/>
